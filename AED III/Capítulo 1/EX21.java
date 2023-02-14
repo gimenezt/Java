@@ -5,5 +5,8 @@ public class Atividade_2_20 {
  String b = new String(a+"USCS");  
  String c = new String("a".concat(b));  
  System.out.println(c);  
+ S1= null;  
+ S2 = null;  
+ System.out.println(S4);  
  }  
 } 
